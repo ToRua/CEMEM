@@ -1,5 +1,4 @@
-﻿# CEMEM
-# Nhập Môn Công Nghệ Phần Mềm - SE104.I23
+﻿# Nhập Môn Công Nghệ Phần Mềm - SE104.I23
 # Đề Tài: Phát triển phần mềm quản lý Phòng mạch tư
 # Tên Nhóm: CEMEM
 # Thành Viên:
