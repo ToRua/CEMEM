@@ -21,8 +21,6 @@
 				+ SQL sever
 				+ Visual studio	
 			4.2 Giải pháp khi cài đặt
-		
-
 
 # Tên Nhóm: CEMEM
 # Thành Viên:
@@ -32,3 +30,5 @@
 	3		15520571		Nguyễn Trọng Nhân	Thành viên
 	4		15520032		Trần Nam Bàng		Thành viên
 	5		15520934		Nguyễn Văn Trưa		Thành viên
+# Tài liệu tham khảo
+		
