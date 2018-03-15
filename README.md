@@ -1,7 +1,9 @@
 
 # Nhập Môn Công Nghệ Phần Mềm - SE104.I23
 # Đề Tài: Phát triển phần mềm quản lý Phòng mạch tư
-	" Hình ảnh"
+	-Phần mềm giúp người sử dụng dễ dàng thao tác hay tra cứu bệnh nhân như : 
+		+Lập hóa đơn,phiếu khám,báo cáo thu chi...
+		+Tra cứu thông tin bệnh nhân...
 # Quá Trình
 	1.Hiện trạng:
 			1.1 Tổ chức
