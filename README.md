@@ -1,4 +1,4 @@
-﻿![nguliz](Capture.PNG "hihi")
+﻿![nguliz](https://www.tilcode.com/wp-content/uploads/2014/09/Screen-Shot-2014-09-10-at-10.16.02-AM.png "hihi")
  # Nhập Môn Công Nghệ Phần Mềm - SE104.I23
 # Đề Tài: Phát triển phần mềm quản lý Phòng mạch tư
 	"Hình Ảnh phần mềm"
