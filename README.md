@@ -21,6 +21,7 @@
 				+ Hệ Điều Hành Windows
 				+ SQL sever
 				+ Visual studio	
+				+ Ngồn ngữ Lập trình: C#
 			4.2 Giải pháp khi cài đặt
 
 # Tên Nhóm: CEMEM
