@@ -1,7 +1,7 @@
 
 # Nhập Môn Công Nghệ Phần Mềm - SE104.I23
 # Đề Tài: Phát triển phần mềm quản lý Phòng mạch tư
-	
+	![Menu](Picture.PNG "Menu")
 # Quá Trình
 	1.Hiện trạng:
 			1.1 Tổ chức
