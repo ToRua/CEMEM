@@ -1,4 +1,5 @@
-﻿# Nhập Môn Công Nghệ Phần Mềm - SE104.I23
+﻿![nguliz](Capture.png "hihi")
+ # Nhập Môn Công Nghệ Phần Mềm - SE104.I23
 # Đề Tài: Phát triển phần mềm quản lý Phòng mạch tư
 	"Hình Ảnh phần mềm"
 # Quá Trình
